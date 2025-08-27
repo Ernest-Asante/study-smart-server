@@ -16,7 +16,7 @@ const app = express();
 const PORT = 3001;
 
 // ✅ API Keys
-const GEMINI_API_KEY = "AIzaSyDIVPljDwKtn3GhwfkvzxP6JeP_OBoQkh4";
+const GEMINI_API_KEY = "AIzaSyCpJ2hRwRULcT9wVOnQ0zgctTJezoWWZdY";
 const YOUTUBE_API_KEY =  "AIzaSyBozBKoer2PI00pheCSXU2V8sNOgdT5urM";
 
 if (!GEMINI_API_KEY || !YOUTUBE_API_KEY) {
